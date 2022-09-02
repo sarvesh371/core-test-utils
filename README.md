@@ -2,7 +2,7 @@
 
 **Using**
 
-1. `python -m pip install open_test_utils`
+1. `python -m pip install common_test_utils`
 
 
 **Buidling**
@@ -26,5 +26,5 @@
         - python3 -m twine upload --repository local --verbose dist/*
         - Enter the username and password of your pypi account
  
-5. That's all you have to do and now you are good to use the open_test_utils in your project
+5. That's all you have to do and now you are good to use the common_test_utils in your project
   
